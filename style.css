@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    width: auto;
+    height:250px ;
+    background: linear-gradient(90deg, rgba(54,47,182,1) 0%, rgba(25,142,127,1) 45%, rgba(0,255,55,1) 100%);
+    padding: 20px, auto;
+}
+header h1{
+    font-size: 400%;
+}
+#12{
+    text-align: center;
+}
